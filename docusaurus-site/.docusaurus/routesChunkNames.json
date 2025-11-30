@@ -42,93 +42,17 @@
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/blog-c44": {
-    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
-    "__context": {
-      "plugin": "plugin---blog-369-22e"
-    },
-    "sidebar": "sidebar---blog-814-8ac",
-    "items": [
-      {
-        "content": "content---blogb-65-fe9"
-      }
-    ],
-    "__props": "__props---blogc-15-573"
-  },
-  "/blog/archive-182": {
-    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
-    "__context": {
-      "plugin": "plugin---blog-369-22e"
-    },
-    "__props": "__props---blog-archivef-81-229"
-  },
-  "/blog/authors-0b7": {
-    "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
-    "__context": {
-      "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
-      },
-      "plugin": "plugin---blog-369-22e"
-    },
-    "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-authorsef-8-44f"
-  },
-  "/blog/first-post-6c3": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
-    "__context": {
-      "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
-      },
-      "plugin": "plugin---blog-369-22e"
-    },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-first-post-7-fc-8ed"
-  },
-  "/blog/tags-287": {
-    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
-    "__context": {
-      "plugin": "plugin---blog-369-22e"
-    },
-    "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-tags-3-a-2-fa2"
-  },
-  "/blog/tags/docusaurus-a99": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
-    "__context": {
-      "plugin": "plugin---blog-369-22e"
-    },
-    "sidebar": "sidebar---blog-814-8ac",
-    "items": [
-      {
-        "content": "content---blogb-65-fe9"
-      }
-    ],
-    "__props": "__props---blog-tags-docusaurus-321-832"
-  },
-  "/blog/tags/hello-0a1": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
-    "__context": {
-      "plugin": "plugin---blog-369-22e"
-    },
-    "sidebar": "sidebar---blog-814-8ac",
-    "items": [
-      {
-        "content": "content---blogb-65-fe9"
-      }
-    ],
-    "__props": "__props---blog-tags-hellof-82-2fd"
-  },
-  "/docs-520": {
+  "/docs-5fc": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-085": {
+  "/docs-d3d": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-d77": {
+  "/docs-f70": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/Chapter 1/glossary-d4d": {
@@ -142,5 +66,17 @@
   "/docs/Chapter 1/weekly-objectives-6f5": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-chapter-1-weekly-objectives-233-5b5"
+  },
+  "/docs/chapter-2/-12c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-chapter-2-fb-7-e01"
+  },
+  "/docs/chapter-2/module-1-ros2-4ba": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-chapter-2-module-1-ros-2951-cef"
+  },
+  "/docs/chapter-2/weekly-plan-135": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-chapter-2-weekly-planafc-e78"
   }
 }

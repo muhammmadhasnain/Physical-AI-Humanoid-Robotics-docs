@@ -13,3 +13,10 @@ __pycache__/
 *.pyc
 .venv/
 venv/
+
+# C# / Unity
+bin/
+obj/
+*.user
+*.suo
+packages/

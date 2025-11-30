@@ -24,6 +24,21 @@
               "id": "Chapter 1/weekly-objectives",
               "path": "/docs/Chapter 1/weekly-objectives",
               "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "chapter-2/index",
+              "path": "/docs/chapter-2/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "chapter-2/module-1-ros2",
+              "path": "/docs/chapter-2/module-1-ros2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "chapter-2/weekly-plan",
+              "path": "/docs/chapter-2/weekly-plan",
+              "sidebar": "tutorialSidebar"
             }
           ],
           "draftIds": [],

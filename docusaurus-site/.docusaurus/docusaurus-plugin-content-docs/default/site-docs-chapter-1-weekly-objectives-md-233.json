@@ -16,5 +16,9 @@
   "previous": {
     "title": "Glossary",
     "permalink": "/docs/Chapter 1/glossary"
+  },
+  "next": {
+    "title": "Chapter 2: Robotic Nervous System & Simulation",
+    "permalink": "/docs/chapter-2/"
   }
 }

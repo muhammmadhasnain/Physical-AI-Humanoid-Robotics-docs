@@ -3,7 +3,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
+  title: 'Physical AI & Humanoid Robotics',
   tagline: 'My Site Tagline',
   favicon: 'img/favicon.ico',
 
@@ -60,9 +60,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Physical AI & Humanoid Robotics',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Physical AI & Humanoid Robotics',
           src: 'img/logo.svg',
         },
         items: [
@@ -70,9 +70,9 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Book',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
@@ -112,10 +112,7 @@ const config = {
           {
             title: 'More',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
+             
               {
                 label: 'GitHub',
                 href: 'https://github.com/facebook/docusaurus',

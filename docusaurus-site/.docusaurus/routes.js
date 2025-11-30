@@ -38,51 +38,16 @@ export default [
     exact: true
   },
   {
-    path: '/blog',
-    component: ComponentCreator('/blog', 'c44'),
-    exact: true
-  },
-  {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', '182'),
-    exact: true
-  },
-  {
-    path: '/blog/authors',
-    component: ComponentCreator('/blog/authors', '0b7'),
-    exact: true
-  },
-  {
-    path: '/blog/first-post',
-    component: ComponentCreator('/blog/first-post', '6c3'),
-    exact: true
-  },
-  {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', '287'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus', 'a99'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello', '0a1'),
-    exact: true
-  },
-  {
     path: '/docs',
-    component: ComponentCreator('/docs', '520'),
+    component: ComponentCreator('/docs', '5fc'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '085'),
+        component: ComponentCreator('/docs', 'd3d'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'd77'),
+            component: ComponentCreator('/docs', 'f70'),
             routes: [
               {
                 path: '/docs/Chapter 1/glossary',
@@ -99,6 +64,24 @@ export default [
               {
                 path: '/docs/Chapter 1/weekly-objectives',
                 component: ComponentCreator('/docs/Chapter 1/weekly-objectives', '6f5'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/chapter-2/',
+                component: ComponentCreator('/docs/chapter-2/', '12c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/chapter-2/module-1-ros2',
+                component: ComponentCreator('/docs/chapter-2/module-1-ros2', '4ba'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/chapter-2/weekly-plan',
+                component: ComponentCreator('/docs/chapter-2/weekly-plan', '135'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

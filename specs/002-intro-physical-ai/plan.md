@@ -1,45 +1,44 @@
-# Implementation Plan: Introduction to Physical AI & Humanoid Robotics
+# Implementation Plan: [FEATURE]
 
-**Branch**: `001-intro-physical-ai` | **Date**: 2025-11-29 | **Spec**: [specs/001-intro-physical-ai/spec.md](specs/001-intro-physical-ai/spec.md)
-**Input**: Feature specification from `specs/001-intro-physical-ai/spec.md`
+**Branch**: `[###-feature-name]` | **Date**: [DATE] | **Spec**: [link]
+**Input**: Feature specification from `/specs/[###-feature-name]/spec.md`
 
 **Note**: This template is filled in by the `/sp.plan` command. See `.specify/templates/commands/plan.md` for the execution workflow.
 
 ## Summary
 
-Laying the foundation of Physical AI and embodied intelligence; understanding humanoid robots, sensors, and the course objectives.
+[Extract from feature spec: primary requirement + technical approach from research]
 
 ## Technical Context
 
-**Language/Version**: Python (common for robotics development with ROS 2)
-**Primary Dependencies**: ROS 2, Gazebo, NVIDIA Isaac, Unity, Docusaurus
-**Storage**: N/A
-**Testing**: Docusaurus build/serve checks
-**Target Platform**: Web (Docusaurus static site)
-**Project Type**: Educational content/documentation (Docusaurus)
-**Performance Goals**: N/A
-**Constraints**: N/A
-**Scale/Scope**: Introductory course for physical AI and humanoid robotics
+<!--
+  ACTION REQUIRED: Replace the content in this section with the technical details
+  for the project. The structure here is presented in advisory capacity to guide
+  the iteration process.
+-->
+
+**Language/Version**: [e.g., Python 3.11, Swift 5.9, Rust 1.75 or NEEDS CLARIFICATION]  
+**Primary Dependencies**: [e.g., FastAPI, UIKit, LLVM or NEEDS CLARIFICATION]  
+**Storage**: [if applicable, e.g., PostgreSQL, CoreData, files or N/A]  
+**Testing**: [e.g., pytest, XCTest, cargo test or NEEDS CLARIFICATION]  
+**Target Platform**: [e.g., Linux server, iOS 15+, WASM or NEEDS CLARIFICATION]
+**Project Type**: [single/web/mobile - determines source structure]  
+**Performance Goals**: [domain-specific, e.g., 1000 req/s, 10k lines/sec, 60 fps or NEEDS CLARIFICATION]  
+**Constraints**: [domain-specific, e.g., <200ms p95, <100MB memory, offline-capable or NEEDS CLARIFICATION]  
+**Scale/Scope**: [domain-specific, e.g., 10k users, 1M LOC, 50 screens or NEEDS CLARIFICATION]
 
 ## Constitution Check
 
 *GATE: Must pass before Phase 0 research. Re-check after Phase 1 design.*
 
-- [x] **I. AI-Native Content & Physical AI Focus**: The plan aligns with creating content focused on Physical AI and embodied intelligence, leveraging AI-native techniques.
-- [x] **II. Modularity & Reusability**: The chapter is designed as a self-contained learning unit.
-- [x] **III. Clarity & Readability**: The plan emphasizes clear learning objectives and practical examples.
-- [x] **IV. Spec-Driven Development (SDD)**: This plan is being generated as part of the SDD workflow.
-- [x] **V. Practical Application & Simulation**: The plan explicitly mentions hands-on learning with tools like ROS 2, Gazebo, Unity, and NVIDIA Isaac.
-- [x] **VI. Integrated Learning Experience**: While this chapter doesn't directly implement the RAG chatbot, it lays the foundation for content that such a chatbot would interact with.
-- [x] **VII. Continuous Feedback & Iteration**: The plan's assessment methods (quizzes, discussions, reflection) support feedback.
-- [x] **VIII. Security by Design**: Not directly applicable to a textbook chapter, but the content will avoid insecure practices.
+[Gates determined based on constitution file]
 
 ## Project Structure
 
 ### Documentation (this feature)
 
 ```text
-specs/001-intro-physical-ai/
+specs/[###-feature]/
 ├── plan.md              # This file (/sp.plan command output)
 ├── research.md          # Phase 0 output (/sp.plan command)
 ├── data-model.md        # Phase 1 output (/sp.plan command)
@@ -49,15 +48,51 @@ specs/001-intro-physical-ai/
 ```
 
 ### Source Code (repository root)
+<!--
+  ACTION REQUIRED: Replace the placeholder tree below with the concrete layout
+  for this feature. Delete unused options and expand the chosen structure with
+  real paths (e.g., apps/admin, packages/something). The delivered plan must
+  not include Option labels.
+-->
 
 ```text
-# This feature focuses on educational content and documentation.
-# No new source code files are expected at the repository root for this chapter.
-# The relevant code will be within the simulation environments (ROS 2, Gazebo, etc.)
-# which are external dependencies, not direct source code in this project.
+# [REMOVE IF UNUSED] Option 1: Single project (DEFAULT)
+src/
+├── models/
+├── services/
+├── cli/
+└── lib/
+
+tests/
+├── contract/
+├── integration/
+└── unit/
+
+# [REMOVE IF UNUSED] Option 2: Web application (when "frontend" + "backend" detected)
+backend/
+├── src/
+│   ├── models/
+│   ├── services/
+│   └── api/
+└── tests/
+
+frontend/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   └── services/
+└── tests/
+
+# [REMOVE IF UNUSED] Option 3: Mobile + API (when "iOS/Android" detected)
+api/
+└── [same as backend above]
+
+ios/ or android/
+└── [platform-specific structure: feature modules, UI flows, platform tests]
 ```
 
-**Structure Decision**: This feature primarily involves documentation and educational content, with references to external simulation and robotics platforms. The project structure reflects this, focusing on markdown artifacts within the `specs/001-intro-physical-ai/` directory. No new source code modules are expected directly in the repository root for this chapter.
+**Structure Decision**: [Document the selected structure and reference the real
+directories captured above]
 
 ## Complexity Tracking
 
@@ -65,4 +100,5 @@ specs/001-intro-physical-ai/
 
 | Violation | Why Needed | Simpler Alternative Rejected Because |
 |-----------|------------|-------------------------------------|
-| N/A       | N/A        | N/A                                 |
+| [e.g., 4th project] | [current need] | [why 3 projects insufficient] |
+| [e.g., Repository pattern] | [specific problem] | [why direct DB access insufficient] |

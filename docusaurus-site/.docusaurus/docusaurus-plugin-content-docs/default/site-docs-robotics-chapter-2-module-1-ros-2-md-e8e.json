@@ -1,0 +1,24 @@
+{
+  "id": "robotics/chapter-2/module-1-ros2",
+  "title": "Module 1: ROS 2 — The Robotic Nervous System",
+  "description": "ROS 2 Architecture",
+  "source": "@site/docs/robotics/chapter-2/module-1-ros2.md",
+  "sourceDirName": "robotics/chapter-2",
+  "slug": "/robotics/chapter-2/module-1-ros2",
+  "permalink": "/docs/robotics/chapter-2/module-1-ros2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/robotics/chapter-2/module-1-ros2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 2: Robotic Nervous System & Simulation",
+    "permalink": "/docs/robotics/chapter-2/"
+  },
+  "next": {
+    "title": "Module 2: Gazebo & Unity: Digital Twin Simulation",
+    "permalink": "/docs/robotics/chapter-2/module-2-gazebo-unity"
+  }
+}

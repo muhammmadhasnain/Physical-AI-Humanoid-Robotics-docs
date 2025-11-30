@@ -1,0 +1,20 @@
+{
+  "id": "chapter-2/weekly-plan",
+  "title": "Weekly Plan (Weeks 3–7)",
+  "description": "",
+  "source": "@site/docs/chapter-2/weekly-plan.md",
+  "sourceDirName": "chapter-2",
+  "slug": "/chapter-2/weekly-plan",
+  "permalink": "/docs/chapter-2/weekly-plan",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/chapter-2/weekly-plan.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 1: ROS 2 — The Robotic Nervous System",
+    "permalink": "/docs/chapter-2/module-1-ros2"
+  }
+}
