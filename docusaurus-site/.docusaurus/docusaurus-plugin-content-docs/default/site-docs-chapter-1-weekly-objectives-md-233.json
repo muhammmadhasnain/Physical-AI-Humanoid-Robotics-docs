@@ -1,0 +1,20 @@
+{
+  "id": "Chapter 1/weekly-objectives",
+  "title": "Weekly Learning Objectives",
+  "description": "Weeks 1-2: Introduction to Physical AI & Humanoid Robotics",
+  "source": "@site/docs/Chapter 1/weekly-objectives.md",
+  "sourceDirName": "Chapter 1",
+  "slug": "/Chapter 1/weekly-objectives",
+  "permalink": "/docs/Chapter 1/weekly-objectives",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Chapter 1/weekly-objectives.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Glossary",
+    "permalink": "/docs/Chapter 1/glossary"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "Chapter 1/Introduction to Physical AI & Humanoid Robotics.",
+          "docs": [
+            {
+              "id": "Chapter 1/glossary",
+              "path": "/docs/Chapter 1/glossary",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Chapter 1/Introduction to Physical AI & Humanoid Robotics.",
+              "path": "/docs/Chapter 1/Introduction to Physical AI & Humanoid Robotics.",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Chapter 1/weekly-objectives",
+              "path": "/docs/Chapter 1/weekly-objectives",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/Chapter 1/Introduction to Physical AI & Humanoid Robotics.",
+                "label": "Chapter 1/Introduction to Physical AI & Humanoid Robotics."
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
