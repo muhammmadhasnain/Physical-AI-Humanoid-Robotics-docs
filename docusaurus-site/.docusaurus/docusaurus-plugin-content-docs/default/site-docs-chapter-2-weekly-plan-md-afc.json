@@ -16,5 +16,9 @@
   "previous": {
     "title": "Module 1: ROS 2 — The Robotic Nervous System",
     "permalink": "/docs/chapter-2/module-1-ros2"
+  },
+  "next": {
+    "title": "Introduction to Physical AI & Humanoid Robotics",
+    "permalink": "/docs/intro"
   }
 }

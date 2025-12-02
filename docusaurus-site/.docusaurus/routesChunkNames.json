@@ -42,17 +42,17 @@
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/docs-5fc": {
+  "/docs-61c": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-d3d": {
+  "/docs-c4a": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-f70": {
+  "/docs-411": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/Chapter 1/glossary-d4d": {
@@ -78,5 +78,16 @@
   "/docs/chapter-2/weekly-plan-135": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-chapter-2-weekly-planafc-e78"
+  },
+  "/docs/intro-61d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-0-e-3-be1"
+  },
+  "/-2e1": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---a-74-9d6"
+    },
+    "config": "config---5-e-9-4f3"
   }
 }

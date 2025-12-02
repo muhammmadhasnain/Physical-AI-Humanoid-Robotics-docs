@@ -39,15 +39,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '5fc'),
+    component: ComponentCreator('/docs', '61c'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'd3d'),
+        component: ComponentCreator('/docs', 'c4a'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'f70'),
+            component: ComponentCreator('/docs', '411'),
             routes: [
               {
                 path: '/docs/Chapter 1/glossary',
@@ -84,12 +84,23 @@ export default [
                 component: ComponentCreator('/docs/chapter-2/weekly-plan', '135'),
                 exact: true,
                 sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/intro',
+                component: ComponentCreator('/docs/intro', '61d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
               }
             ]
           }
         ]
       }
     ]
+  },
+  {
+    path: '/',
+    component: ComponentCreator('/', '2e1'),
+    exact: true
   },
   {
     path: '*',

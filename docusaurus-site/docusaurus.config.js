@@ -19,7 +19,11 @@ const config = {
   projectName: 'docusaurus', // Usually your repo name.
 
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+    },
+  },
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese,
@@ -72,7 +76,7 @@ const config = {
             position: 'left',
             label: 'Book',
           },
-          
+
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
@@ -112,7 +116,7 @@ const config = {
           {
             title: 'More',
             items: [
-             
+
               {
                 label: 'GitHub',
                 href: 'https://github.com/facebook/docusaurus',

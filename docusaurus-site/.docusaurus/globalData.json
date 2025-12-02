@@ -39,6 +39,11 @@
               "id": "chapter-2/weekly-plan",
               "path": "/docs/chapter-2/weekly-plan",
               "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
             }
           ],
           "draftIds": [],
