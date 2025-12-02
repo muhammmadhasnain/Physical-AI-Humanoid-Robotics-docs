@@ -39,15 +39,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '61c'),
+    component: ComponentCreator('/docs', 'ced'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'c4a'),
+        component: ComponentCreator('/docs', 'd4a'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '411'),
+            component: ComponentCreator('/docs', '09d'),
             routes: [
               {
                 path: '/docs/Chapter 1/glossary',
@@ -82,6 +82,36 @@ export default [
               {
                 path: '/docs/chapter-2/weekly-plan',
                 component: ComponentCreator('/docs/chapter-2/weekly-plan', '135'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/chapter-3/',
+                component: ComponentCreator('/docs/chapter-3/', '2d1'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/chapter-3/capstone',
+                component: ComponentCreator('/docs/chapter-3/capstone', '6a0'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/chapter-3/humanoid-development',
+                component: ComponentCreator('/docs/chapter-3/humanoid-development', '477'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/chapter-3/module-3-isaac',
+                component: ComponentCreator('/docs/chapter-3/module-3-isaac', '712'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/chapter-3/weekly-plan',
+                component: ComponentCreator('/docs/chapter-3/weekly-plan', 'f8d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

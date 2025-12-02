@@ -41,6 +41,31 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "chapter-3/capstone",
+              "path": "/docs/chapter-3/capstone",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "chapter-3/humanoid-development",
+              "path": "/docs/chapter-3/humanoid-development",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "chapter-3/index",
+              "path": "/docs/chapter-3/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "chapter-3/module-3-isaac",
+              "path": "/docs/chapter-3/module-3-isaac",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "chapter-3/weekly-plan",
+              "path": "/docs/chapter-3/weekly-plan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "intro",
               "path": "/docs/intro",
               "sidebar": "tutorialSidebar"

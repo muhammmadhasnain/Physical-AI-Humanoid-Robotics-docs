@@ -1,0 +1,24 @@
+{
+  "id": "chapter-3/capstone",
+  "title": "Capstone Project",
+  "description": "AI-Powered Humanoid Assistant in Isaac Sim",
+  "source": "@site/docs/chapter-3/capstone.md",
+  "sourceDirName": "chapter-3",
+  "slug": "/chapter-3/capstone",
+  "permalink": "/docs/chapter-3/capstone",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/chapter-3/capstone.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AI-Robot Brain & Humanoid Development",
+    "permalink": "/docs/chapter-3/"
+  },
+  "next": {
+    "title": "Module 3.2 – Humanoid Robot Development",
+    "permalink": "/docs/chapter-3/humanoid-development"
+  }
+}

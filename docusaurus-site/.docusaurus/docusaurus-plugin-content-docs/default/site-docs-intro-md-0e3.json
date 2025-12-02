@@ -1,7 +1,7 @@
 {
   "id": "intro",
-  "title": "Introduction to Physical AI & Humanoid Robotics",
-  "description": "Welcome to the Physical AI & Humanoid Robotics book.",
+  "title": "Robotics, Technology & AI - Journey into the Future",
+  "description": "Ready to explore the amazing world where machines think, move, and interact?  This comprehensive guide will take you on an exciting adventure through the cutting-edge fields of robotics, artificial intelligence, and revolutionary technology that's shaping our tomorrow.",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
@@ -13,11 +13,11 @@
   "version": "current",
   "frontMatter": {
     "id": "intro",
-    "title": "Introduction to Physical AI & Humanoid Robotics"
+    "title": "Robotics, Technology & AI - Journey into the Future"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Weekly Plan (Weeks 3–7)",
-    "permalink": "/docs/chapter-2/weekly-plan"
+    "title": "Weekly Breakdown (Weeks 8–12)",
+    "permalink": "/docs/chapter-3/weekly-plan"
   }
 }

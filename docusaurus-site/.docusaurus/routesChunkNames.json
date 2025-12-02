@@ -42,17 +42,17 @@
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/docs-61c": {
+  "/docs-ced": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-c4a": {
+  "/docs-d4a": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-411": {
+  "/docs-09d": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/Chapter 1/glossary-d4d": {
@@ -78,6 +78,26 @@
   "/docs/chapter-2/weekly-plan-135": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-chapter-2-weekly-planafc-e78"
+  },
+  "/docs/chapter-3/-2d1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-chapter-3-bd-4-b69"
+  },
+  "/docs/chapter-3/capstone-6a0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-chapter-3-capstone-39-f-4db"
+  },
+  "/docs/chapter-3/humanoid-development-477": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-chapter-3-humanoid-development-91-a-26e"
+  },
+  "/docs/chapter-3/module-3-isaac-712": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-chapter-3-module-3-isaac-680-0aa"
+  },
+  "/docs/chapter-3/weekly-plan-f8d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-chapter-3-weekly-planb-30-059"
   },
   "/docs/intro-61d": {
     "__comp": "__comp---theme-doc-item-178-a40",

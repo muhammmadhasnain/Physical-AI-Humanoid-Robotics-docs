@@ -1,0 +1,24 @@
+{
+  "id": "chapter-3/weekly-plan",
+  "title": "Weekly Breakdown (Weeks 8–12)",
+  "description": "Week 8 – Isaac Sim Foundations",
+  "source": "@site/docs/chapter-3/weekly-plan.md",
+  "sourceDirName": "chapter-3",
+  "slug": "/chapter-3/weekly-plan",
+  "permalink": "/docs/chapter-3/weekly-plan",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/chapter-3/weekly-plan.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 3.1 – NVIDIA Isaac: The AI–Robot Brain",
+    "permalink": "/docs/chapter-3/module-3-isaac"
+  },
+  "next": {
+    "title": "Robotics, Technology & AI - Journey into the Future",
+    "permalink": "/docs/intro"
+  }
+}
