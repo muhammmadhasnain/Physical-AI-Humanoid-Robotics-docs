@@ -5,13 +5,13 @@
  */
 export default {
   "title": "Physical AI & Humanoid Robotics",
-  "tagline": "My Site Tagline",
+  "tagline": "Advanced Robotics Learning Platform",
   "favicon": "img/favicon.ico",
-  "url": "https://your-docusaurus-site.example.com",
+  "url": "https://physical-ai-humanoid-robotics-docs.vercel.app",
   "baseUrl": "/",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
-  "onBrokenLinks": "throw",
+  "organizationName": "muhammmadhasnain",
+  "projectName": "physical-ai-humanoid-robotics-docs",
+  "onBrokenLinks": "warn",
   "markdown": {
     "hooks": {
       "onBrokenMarkdownLinks": "warn",
@@ -43,11 +43,11 @@ export default {
       {
         "docs": {
           "sidebarPath": "C:\\Users\\Hasnain\\Desktop\\hacktoon practice\\book\\docusaurus-site\\sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/muhammmadhasnain/physical-ai-humanoid-robotics-docs/edit/main/"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/muhammmadhasnain/physical-ai-humanoid-robotics-docs/edit/main/"
         },
         "theme": {
           "customCss": "C:\\Users\\Hasnain\\Desktop\\hacktoon practice\\book\\docusaurus-site\\src\\css\\custom.css"
@@ -60,7 +60,7 @@ export default {
     "navbar": {
       "title": "Physical AI & Humanoid Robotics",
       "logo": {
-        "alt": "Physical AI & Humanoid Robotics",
+        "alt": "Robotics Logo",
         "src": "img/logo.svg"
       },
       "items": [
@@ -71,7 +71,7 @@ export default {
           "label": "Book"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
+          "href": "https://github.com/muhammmadhasnain/physical-ai-humanoid-robotics-docs",
           "label": "GitHub",
           "position": "right"
         }
@@ -85,7 +85,7 @@ export default {
           "title": "Docs",
           "items": [
             {
-              "label": "Tutorial",
+              "label": "Introduction",
               "to": "/docs/intro"
             }
           ]
@@ -94,16 +94,12 @@ export default {
           "title": "Community",
           "items": [
             {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
-            },
-            {
               "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
+              "href": "https://discord.com/"
             },
             {
               "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
+              "href": "https://twitter.com/"
             }
           ]
         },
@@ -112,12 +108,12 @@ export default {
           "items": [
             {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "https://github.com/muhammmadhasnain/physical-ai-humanoid-robotics-docs"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2025 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2025 Physical AI & Humanoid Robotics."
     },
     "prism": {
       "theme": {
