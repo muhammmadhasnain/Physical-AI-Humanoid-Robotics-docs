@@ -1,113 +1,70 @@
 {
-  "/__docusaurus/debug-5ff": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/config-5ba": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/content-a2b": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    },
-    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
-  },
-  "/__docusaurus/debug/globalData-c3c": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/metadata-156": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/registry-88c": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/routes-000": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
   "/docs-ced": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---docsaba-d7c"
+      "plugin": "aba21aa0"
     }
   },
   "/docs-d4a": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---docs-005-788"
+    "__comp": "a7bd4aaa",
+    "__props": "0058b4c6"
   },
   "/docs-09d": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+    "__comp": "a94703ab"
   },
   "/docs/Chapter 1/glossary-d4d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-chapter-1-glossary-521-03f"
+    "__comp": "17896441",
+    "content": "521c1431"
   },
   "/docs/Chapter 1/Introduction to Physical AI & Humanoid Robotics.-06a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-chapter-1-introduction-to-physical-ai-humanoid-robotics-cd-8-a6b"
+    "__comp": "17896441",
+    "content": "cd84c24b"
   },
   "/docs/Chapter 1/weekly-objectives-6f5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-chapter-1-weekly-objectives-233-5b5"
+    "__comp": "17896441",
+    "content": "233062a5"
   },
   "/docs/chapter-2/-12c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-chapter-2-fb-7-e01"
+    "__comp": "17896441",
+    "content": "fb711c9b"
   },
   "/docs/chapter-2/module-1-ros2-4ba": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-chapter-2-module-1-ros-2951-cef"
+    "__comp": "17896441",
+    "content": "95167d33"
   },
   "/docs/chapter-2/weekly-plan-135": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-chapter-2-weekly-planafc-e78"
+    "__comp": "17896441",
+    "content": "afc803b1"
   },
   "/docs/chapter-3/-2d1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-chapter-3-bd-4-b69"
+    "__comp": "17896441",
+    "content": "bd49b525"
   },
   "/docs/chapter-3/capstone-6a0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-chapter-3-capstone-39-f-4db"
+    "__comp": "17896441",
+    "content": "39f1c636"
   },
   "/docs/chapter-3/humanoid-development-477": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-chapter-3-humanoid-development-91-a-26e"
+    "__comp": "17896441",
+    "content": "91afc14c"
   },
   "/docs/chapter-3/module-3-isaac-712": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-chapter-3-module-3-isaac-680-0aa"
+    "__comp": "17896441",
+    "content": "68087d72"
   },
   "/docs/chapter-3/weekly-plan-f8d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-chapter-3-weekly-planb-30-059"
+    "__comp": "17896441",
+    "content": "b30d0db9"
   },
   "/docs/intro-61d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-intro-0-e-3-be1"
+    "__comp": "17896441",
+    "content": "0e384e19"
   },
   "/-2e1": {
-    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "plugin---a-74-9d6"
+      "plugin": "a7456010"
     },
-    "config": "config---5-e-9-4f3"
+    "config": "5e9f5e1a"
   }
 }
